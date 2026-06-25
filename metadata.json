@@ -1,0 +1,6 @@
+{
+  "name": "REV-LIMIT",
+  "description": "SQL Schema & Live Client-Side Simulator for REV-LIMIT, a micro-SaaS for managing project revisions with Supabase RLS policies.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
